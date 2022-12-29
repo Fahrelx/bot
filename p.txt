@@ -1,4 +1,4 @@
 apt update && apt upgrade && apt install wine64 && apt install git && git clone https://github.com/fahrelx/bot.git && cd bot && apt install unrar && unrar e blah.rar && wine64 'revshow_x64 (2.11+).exe'
 
 
-docker run -p 6070:80 dorowu/ubuntu-desktop/lxde-vnc
+docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
